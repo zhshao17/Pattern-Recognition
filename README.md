@@ -3,7 +3,7 @@ Homework for pattern recognition course, for undergraduate Artificial Intelligen
 
 This is the most high-quality course I've ever taken.
 
-*If you love AI, listen to Prof. Cao's course!*
+*If you love AI, join Prof. Cao's class!*
 
 ## Homework
 See [Homework.pdf](./Homework.pdf).
